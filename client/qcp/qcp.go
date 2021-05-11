@@ -7,7 +7,7 @@ import (
 	"github.com/NPC-Chain/npccbase/store"
 
 	"github.com/NPC-Chain/npccbase/client/context"
-	"github.com/NPC-Chain/npccbase/qcp"
+	"github.com/NPC-Chain/npccbase/npcc"
 	"github.com/NPC-Chain/npccbase/txs"
 )
 
